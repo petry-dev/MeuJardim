@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Vaso coral com duas folhas verdes e um broto amarelo, centralizado na zona segura 66dp -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- folha esquerda -->
+    <path
+        android:fillColor="#2E7D4F"
+        android:pathData="M53,62 C44,60 36,52 35,40 C46,40 54,48 53,62 Z" />
+    <!-- folha direita -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M55,62 C56,46 64,36 75,34 C76,48 68,59 55,62 Z" />
+    <!-- caule -->
+    <path
+        android:fillColor="#2E7D4F"
+        android:pathData="M53,50 L55,50 L55,66 L53,66 Z" />
+    <!-- broto -->
+    <path
+        android:fillColor="#F6C343"
+        android:pathData="M54,38 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <!-- borda do vaso -->
+    <path
+        android:fillColor="#E8604C"
+        android:pathData="M38,64 L70,64 Q72,64 72,66 L72,68 Q72,70 70,70 L38,70 Q36,70 36,68 L36,66 Q36,64 38,64 Z" />
+    <!-- corpo do vaso -->
+    <path
+        android:fillColor="#FF7F6B"
+        android:pathData="M39,70 L69,70 L65,82 Q64.5,84 62,84 L46,84 Q43.5,84 43,82 Z" />
+</vector>

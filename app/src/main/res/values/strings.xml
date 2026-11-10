@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Jardim</string>
+    <string name="channel_reminders_name">Lembretes de rega</string>
+    <string name="channel_reminders_desc">Avisos nos horários configurados para as plantas que precisam de água.</string>
+    <string name="channel_overdue_name">Regas atrasadas</string>
+    <string name="channel_overdue_desc">Avisos sobre plantas cuja rega prevista já passou.</string>
+</resources>
